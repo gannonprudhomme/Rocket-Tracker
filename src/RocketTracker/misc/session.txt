@@ -1,0 +1,6 @@
+Date(in milliseconds?), Session ID?,
+
+Start Stats & MMR?
+
+Time Updated, Playlist#, Current MMR, MMR Change, Goals, Assists, Saves, Shots, mvp
+1235123123 13 1410 +10 1 0 3 4 0
