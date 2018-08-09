@@ -1,14 +1,20 @@
 # Rocket-Tracker
-Executable rank tracker for the video game Rocket League using the [RLStats API](http://documentation.rocketleaguestats.com/)
+Executable rank tracker written in Java for the video game Rocket League, using the [RLStats API](http://documentation.rocketleaguestats.com/). The purpose of Rocket-Tracker is to make it simple and easy to regularly track your progression through ranks, and to open more opportunities for stat analysis through per-game stat recording(Goals, Saves, Shots, etc), as well as things like win-streaks and average stats per session.
 
 ## Features
  - View MMR changes over an entire session(or multiple)
  - Load, Save, and Open previous sessions to continue where you left off
  - Get per-game stats over time
  - Multi-playlist stat recording
- - Checks for rank updates every minute
+ - Real-time rank/match updates
+ 
 ## Usage
+1. Clone and add the project to Eclipse/Netbeans/etc.
+2. Navigate to StatManager.java and change steamID to the corresponding steam ID(or change the platform if not on Steam)
+3. Run RocketTracker.java in the background while you play
+4. (Optional) Save the session when you're done by going to File->Save Session
   
 ## Screen Shots
 
-## About
+![tooltip](https://i.imgur.com/nKS39yI.png)
+![savesession](https://i.imgur.com/VYwNyZ4.png)
