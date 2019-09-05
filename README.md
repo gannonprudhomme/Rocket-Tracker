@@ -1,5 +1,5 @@
-# Rocket-Tracker
-Executable rank tracker written in Java for the video game Rocket League, using the [RLStats API](http://documentation.rocketleaguestats.com/). The purpose of Rocket-Tracker is to make it simple and easy to regularly track your progression through ranks. Likewise, Rocket Tracker opens more opportunities for stat analysis through things such as per-game stat recording(Goals, Saves, Shots, etc),  win-streaks and average stats per session.
+# RocketTracker
+Executable rank tracker written in Java for the video game Rocket League, using the [RLStats API](http://documentation.rocketleaguestats.com/). The purpose of RocketTracker is to make it simple and easy to regularly track your progression through ranks. Likewise, RocketTracker opens more opportunities for stat analysis through things such as per-game stat recording(Goals, Saves, Shots, etc),  win-streaks and average stats per session.
 
 ## Features
  - View MMR changes over an entire session(or multiple)
